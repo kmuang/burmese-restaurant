@@ -51,7 +51,7 @@ class Header extends Component {
             <div className="row">
               <div className=" card-body text-center col">
                 <div className=" btn btn-outline-secondary">
-                  <h1>New Restaurant</h1>
+                  <h1>Git Testing</h1>
                 </div>
               </div>
             </div>
